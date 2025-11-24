@@ -17,3 +17,5 @@ Ejemplo: git commit -m "Primer commit"
 Comando: git status
 Definición: Muestra el estado actual del repositorio (archivos sin seguimiento, modificados, etc.).
 Ejemplo: git status
+
+Se agregó el archivo app.js con la funcionalidad de scroll suave
